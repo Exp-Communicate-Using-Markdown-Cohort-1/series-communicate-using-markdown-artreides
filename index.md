@@ -8,3 +8,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Task List
+- [x] Create algorithm
+- [ ] Document the code neatly
